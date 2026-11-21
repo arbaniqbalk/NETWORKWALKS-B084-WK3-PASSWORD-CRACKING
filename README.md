@@ -128,61 +128,61 @@ The recovered password and complete PDF hash have been intentionally excluded fr
 
 ## Screenshots
 
-All practical screenshots are stored in the `screenshots/` directory.
+All practical screenshots are stored in the `Screenshots/` directory.
 
 ### Project Setup and JTR Installation
 
 **01. PDF Downloaded**
 
-
+![PDF Downloaded](Screenshots/01-pdf-downloaded.PNG)
 
 **02. John the Ripper Downloaded**
 
-
+![John the Ripper Downloaded](Screenshots/02-jtr-downloaded.PNG)
 
 **03. Johnny Installed**
 
-
+![Johnny Installed](Screenshots/03-johnny-installed.PNG)
 
 **04. John Executable Located**
 
-
+![John Executable Located](Screenshots/04-john-configured.PNG)
 
 **05. Johnny Configuration**
 
-
+![Johnny Configuration](Screenshots/05-johnny-configuration.PNG)
 
 ### Hash Extraction and JTR Attack
 
 **06. PDF Hash Extraction**
 
-
+![PDF Hash Extraction](Screenshots/06-pdf-hash-extractor.PNG)
 
 **07. Hash File Created**
 
-
+![Hash File Created](Screenshots/07-hash1-text-file.PNG)
 
 **08. Johnny Attack Result**
 
-
+![Johnny Attack Result](Screenshots/08-johnny-cracked-password.PNG)
 
 **09. PDF Successfully Unlocked**
 
-
+![PDF Successfully Unlocked](Screenshots/09-pdf-unlocked.png)
 
 ### Networkwalks Tools
 
 **10. Networkwalks Hash Calculator**
 
-
+![Networkwalks Hash Calculator](Screenshots/10-networkwalks-hash-calculator.PNG)
 
 **11. Networkwalks Password Cracker**
 
-
+![Networkwalks Password Cracker](Screenshots/11-networkwalks-password-cracker.PNG)
 
 **12. Password Recovery Result**
 
-
+![Password Recovery Result](Screenshots/12-networkwalks-cracked-result.png)
 
 ## Problems Faced and Solutions
 
@@ -226,4 +226,3 @@ Batch: B084
 ---
 
 *This project was performed for educational purposes using the PDF supplied by Networkwalks as part of its authorized internship lab.*
-
